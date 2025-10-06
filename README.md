@@ -5,6 +5,7 @@ Step1 - Prepare data (prepareData.ipynb)
 Step2 - Train/detect using YOLO  (detect.ipynb)
 
 **Outputs Metrics**
+
 Precision (P) - of all the predicted boxes, how many are correct?
 
 Recall (R)    - of all the actual objects, how many were detected?
