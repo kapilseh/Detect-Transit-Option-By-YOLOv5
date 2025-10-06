@@ -1,0 +1,12 @@
+path: ../data/processed_data
+
+train: train/
+val: val/
+test: test/
+
+# Classes
+names:
+  0: Bus
+  1: Train
+  2: Airplane
+  3: Boat
