@@ -1,10 +1,15 @@
 # Detect-Transit-Option-By-YOLOv5
 
+--- Raw data (image ) from openImages
+
+--- Uses YOLOv5 to detect modes of transport (4 images classes used- Bus, Train, AirPlane, Boat)
+
 Step1 - Prepare data (prepareData.ipynb)
 
 Step2 - Train/detect using YOLO  (detect.ipynb)
 
 **Outputs Metrics**
+
 Precision (P) - of all the predicted boxes, how many are correct?
 
 Recall (R)    - of all the actual objects, how many were detected?
